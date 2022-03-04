@@ -34,5 +34,30 @@ namespace Arbol_Binario
                 Raiz = Raiz.Insertar(x, Raiz, Raiz.nivel);
             }
         }
+        // Función para eliminar un nodo (valor) del Árbol Binario.
+        public void eliminar(int x)
+        {
+            if (Raiz == null)
+            {
+                Raiz = new Nodo_Arbol(x, null, null, null);
+            }
+            else
+            {
+                Raiz.Elimimar(x, ref Raiz);
+            }
+        }
+        //Función para buscar 
+        public void Buscar(int x)
+        {
+            Raiz.Buscar(x, Raiz);
+        }
+
+        //Función para dibujar árbol binario en el formulario
+        public void DibujarArbol(Graphics grafo, Font duente, Brush Relleno, Brush RellenoFuente, Pen Lapix)
+        {
+
+        }
+
     }
+
 }
