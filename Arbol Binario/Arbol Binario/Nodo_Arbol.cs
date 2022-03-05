@@ -238,14 +238,25 @@ namespace Arbol_Binario
             {
                 if (Izquierdo != null)
                 {
-                    aux2 = Derecho.CoordenadaX;
+                    aux1 = Izquierdo.CoordenadaX;
                     //no hay nodo izquierdo, centrar en nodo derecho
-                    Derecho.CoordenadaX = CoordenadaX + 80;
-                    CoordenadaX = aux2;
+                    Izquierdo.CoordenadaX = CoordenadaX - 80;
+                    CoordenadaX = aux1;
                 }
                 else {
-                    CoordenadaX = (int)(xmin + Radio / 2);
-                    xmin += Radio;
+                    if (Derecho != null)
+                    {
+                        aux2 = Derecho.CoordenadaX;
+                        //no hay nodo izquierdo, centrar en nodo derecho
+                        Derecho.CoordenadaX = CoordenadaX + 80;
+                        CoordenadaX = aux2;
+                    }
+                    else
+                    {
+                        CoordenadaX = (int)(xmin + Radio / 2);
+                        xmin += Radio;
+                    }
+                    
                 }
             }
         }

@@ -1,0 +1,10 @@
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojAssemblyReference.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 01 -2022\Programaicion Con Estructurada de Datos\Laboratorios\Lab 3\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
